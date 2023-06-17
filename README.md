@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Pass callbacks to validator (#7320)

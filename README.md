@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Add plot_images conf_thresh parameter (#8446)

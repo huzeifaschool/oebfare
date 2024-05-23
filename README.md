@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
